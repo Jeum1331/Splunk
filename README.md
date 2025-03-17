@@ -1,6 +1,4 @@
-## Splunk Security Monitoring Practice
-
-# Overview
+# 🖥️Splunk Security Monitoring Practice
 This repository showcases my hands-on experience with Splunk, focusing on security monitoring, log analysis, and alerting. This project simulates a real-world SOC (Security Operations Center) scenario for a fictional company, Virtual Space Industries (VSI), where I play the role of an SOC analyst.
 
 # Scenario
@@ -31,18 +29,19 @@ VSI designs virtual-reality programs for businesses. Recently, rumors suggest th
 <li>Identifies potential web-based attacks, such as SQL injection and brute-force attempts.</li></ul>
 
 # ✅Tasks Completed
+<ol>
+<li>Log Ingestion: Successfully imported Windows and Apache logs into Splunk.</li>
 
-Log Ingestion: Successfully imported Windows and Apache logs into Splunk.
+<li>Data Analysis: Parsed and filtered logs to identify key security events.</li>
 
-Data Analysis: Parsed and filtered logs to identify key security events.
+<li>Report Generation: Created detailed reports on login attempts, error logs, and access patterns.</li>
 
-Report Generation: Created detailed reports on login attempts, error logs, and access patterns.
+<li>Alerting: Configured real-time alerts for suspicious activity.</li>
 
-Alerting: Configured real-time alerts for suspicious activity.
+<li>Dashboard Creation: Developed dashboards for security visualization and monitoring.</li>
 
-Dashboard Creation: Developed dashboards for security visualization and monitoring.
-
-Add-on Installation: Integrated additional Splunk applications to enhance monitoring capabilities.
+<li>Add-on Installation: Integrated additional Splunk applications to enhance monitoring capabilities.</li>
+</ol>
 
 # Tools & Technologies
 <ul>
