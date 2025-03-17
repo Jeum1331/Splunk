@@ -55,7 +55,7 @@ VSI designs virtual-reality programs for businesses. Recently, rumors suggest th
 
 <li>Splunk Add-ons (Enhanced monitoring and automation)</li></ul>
 
-# Next Steps
+#Next Steps
 
 Fine-tune alerts to reduce false positives.
 
