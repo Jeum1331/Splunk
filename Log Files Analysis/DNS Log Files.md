@@ -25,7 +25,7 @@
 1. Look for unusual trends or irregularities in DNS traffic.
 2. Use the following query to detect spikes in DNS requests:
    ```spl
-   index=_* OR index=* sourcetype=dns | stats count by fqdn
+   index=* sourcetype=dns | stats count by fqdn
    ```
 
 ## Step 4: Identify Top DNS Sources
