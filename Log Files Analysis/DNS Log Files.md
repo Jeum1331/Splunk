@@ -6,6 +6,7 @@
    ```spl
    index=* sourcetype=dns_sample
    ```
+![image](https://github.com/user-attachments/assets/d88e6009-7c34-4413-948c-fc244eea2287)
 
 ## Step 2: Extract Key Fields
 1. Identify important fields in DNS logs such as:
