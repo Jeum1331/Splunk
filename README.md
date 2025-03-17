@@ -1,4 +1,6 @@
 # 🖥️Splunk Security Monitoring Practice
+
+## Overview
 This repository showcases my hands-on experience with Splunk, focusing on security monitoring, log analysis, and alerting. This project simulates a real-world SOC (Security Operations Center) scenario for a fictional company, Virtual Space Industries (VSI), where I play the role of an SOC analyst.
 
 # Scenario
