@@ -63,3 +63,22 @@
         <li>Log in with the administrator credentials you set during installation.</li>
     </ol>
     
+    <h2>Troubleshooting</h2>
+    <ul>
+        <li>If Splunk does not start, check the logs in <code>C:\Program Files\Splunk\var\log\splunk</code>.</li>
+        <li>Ensure port 8000 is not blocked by your firewall.</li>
+        <li>Run Splunk as Administrator for proper permissions.</li>
+    </ul>
+    
+    <h2>Uninstalling Splunk</h2>
+    <ol>
+        <li>Stop Splunk from the Command Prompt:</li>
+        <pre>splunk stop</pre>
+        <li>Go to Control Panel &gt; Programs &gt; Uninstall a Program.</li>
+        <li>Find Splunk in the list and click <strong>Uninstall</strong>.</li>
+    </ol>
+    
+    <p><strong>Congratulations! 🎉 You have successfully installed Splunk on Windows.</strong></p>
+</body>
+</html>
+    
