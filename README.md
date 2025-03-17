@@ -16,21 +16,21 @@ VSI designs virtual-reality programs for businesses. Recently, rumors suggest th
 
 <li>Install and utilize a Splunk add-on for additional monitoring capabilities.</li></ul>
 
-Logs Analyzed
+# Logs Analyzed
 
-Windows Server Logs
+## Windows Server Logs
+<ul>
+<li>Monitors VSI's critical back-end operations.</li>
 
-Monitors VSI's critical back-end operations.
+<li>Helps detect unauthorized access and suspicious activity.</li></ul>
 
-Helps detect unauthorized access and suspicious activity.
+## Apache Server Logs
+<ul>
+<li>Tracks activity on VSI’s public-facing website: vsi-company.com.</li>
 
-Apache Server Logs
+<li>Identifies potential web-based attacks, such as SQL injection and brute-force attempts.</li></ul>
 
-Tracks activity on VSI’s public-facing website: vsi-company.com.
-
-Identifies potential web-based attacks, such as SQL injection and brute-force attempts.
-
-Tasks Completed
+# Tasks Completed
 
 Log Ingestion: Successfully imported Windows and Apache logs into Splunk.
 
@@ -44,15 +44,15 @@ Dashboard Creation: Developed dashboards for security visualization and monitori
 
 Add-on Installation: Integrated additional Splunk applications to enhance monitoring capabilities.
 
-Tools & Technologies
+# Tools & Technologies
+<ul>
+<li>Splunk Enterprise (Log analysis, dashboards, and alerts)</li>
 
-Splunk Enterprise (Log analysis, dashboards, and alerts)
+<li>Windows Server Logs (Security events, authentication logs)</li>
 
-Windows Server Logs (Security events, authentication logs)
+<li>Apache Access & Error Logs (Web activity monitoring)</li>
 
-Apache Access & Error Logs (Web activity monitoring)
-
-Splunk Add-ons (Enhanced monitoring and automation)
+<li>Splunk Add-ons (Enhanced monitoring and automation)</li></ul>
 
 Next Steps
 
@@ -62,11 +62,8 @@ Implement threat intelligence feeds in Splunk.
 
 Expand log sources to include network and firewall logs.
 
-Conclusion
-
+# Conclusion
 This project helped me build hands-on expertise in log analysis, threat detection, and security monitoring using Splunk. It provided valuable insights into SOC operations and real-world cybersecurity challenges.
 
 Feel free to explore my work, and reach out if you have any questions or suggestions!
-
-🚀 Let's secure the digital world, one log at a time!
 
