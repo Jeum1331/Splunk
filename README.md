@@ -1,12 +1,12 @@
 ## Splunk Security Monitoring Practice
 
 # Overview
-Welcome to my cybersecurity practice repository! This repository showcases my hands-on experience with Splunk, focusing on security monitoring, log analysis, and alerting. This project simulates a real-world SOC (Security Operations Center) scenario for a fictional company, Virtual Space Industries (VSI), where I play the role of an SOC analyst.
+This repository showcases my hands-on experience with Splunk, focusing on security monitoring, log analysis, and alerting. This project simulates a real-world SOC (Security Operations Center) scenario for a fictional company, Virtual Space Industries (VSI), where I play the role of an SOC analyst.
 
 # Scenario
 VSI designs virtual-reality programs for businesses. Recently, rumors suggest that a competitor, JobeCorp, may attempt cyberattacks to disrupt VSI's operations. My role as an SOC analyst is to use Splunk to monitor VSI’s systems and detect potential security threats.
 
-# Key Objectives
+# 🔑Key Objectives
 <ul>
   <li>Load and analyze Windows Server logs to monitor VSI’s intellectual property.</li>
 
@@ -16,7 +16,7 @@ VSI designs virtual-reality programs for businesses. Recently, rumors suggest th
 
 <li>Install and utilize a Splunk add-on for additional monitoring capabilities.</li></ul>
 
-# Logs Analyzed
+# 🪵Logs Analyzed
 
 ## Windows Server Logs
 <ul>
@@ -30,7 +30,7 @@ VSI designs virtual-reality programs for businesses. Recently, rumors suggest th
 
 <li>Identifies potential web-based attacks, such as SQL injection and brute-force attempts.</li></ul>
 
-# Tasks Completed
+# ✅Tasks Completed
 
 Log Ingestion: Successfully imported Windows and Apache logs into Splunk.
 
@@ -54,7 +54,7 @@ Add-on Installation: Integrated additional Splunk applications to enhance monito
 
 <li>Splunk Add-ons (Enhanced monitoring and automation)</li></ul>
 
-Next Steps
+# Next Steps
 
 Fine-tune alerts to reduce false positives.
 
@@ -65,5 +65,5 @@ Expand log sources to include network and firewall logs.
 # Conclusion
 This project helped me build hands-on expertise in log analysis, threat detection, and security monitoring using Splunk. It provided valuable insights into SOC operations and real-world cybersecurity challenges.
 
-Feel free to explore my work, and reach out if you have any questions or suggestions!
+🔎 Feel free to explore my work, and reach out if you have any questions or suggestions!
 
