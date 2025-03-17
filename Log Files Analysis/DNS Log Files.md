@@ -41,4 +41,4 @@
    ```
 
 ## Conclusion
-Utilizing Splunk SIEM for DNS log analysis empowers security professionals to detect threats and respond to incidents more effectively. By monitoring DNS activity and identifying anomalies, organizations can strengthen their security defenses and mitigate cyber risks.
+Utilizing Splunk for DNS log analysis empowers security professionals to detect threats and respond to incidents more effectively. By monitoring DNS activity and identifying anomalies, organizations can strengthen their security defenses and mitigate cyber risks.
