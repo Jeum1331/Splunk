@@ -1,4 +1,3 @@
-
 # Installing Splunk on Windows
 
 ## Introduction
@@ -34,3 +33,4 @@ This guide provides step-by-step instructions for installing Splunk on a Windows
 ## Step 4: Access Splunk Web Interface
 1. Open a web browser and go to: [http://localhost:8000](http://localhost:8000)
 2. Log in with the administrator credentials you set during installation.
+![image](https://github.com/user-attachments/assets/db47cdbe-8a09-4f84-9fbc-0013063d735e)
