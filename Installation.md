@@ -8,8 +8,7 @@ This guide provides step-by-step instructions for installing Splunk on a Windows
 1. Visit the [Splunk Download Page](https://www.splunk.com/en_us/download.html).
 2. Sign in or create an account if required.
 3. Download the Windows Installer (typically a `.msi` file).
-4. ![image](https://github.com/user-attachments/assets/f1a0173e-2236-4ebb-8c50-5358fc524aec)
-
+![image](https://github.com/user-attachments/assets/f1a0173e-2236-4ebb-8c50-5358fc524aec)
 
 ## Step 2: Install Splunk
 1. Locate the downloaded `.msi` file and double-click to run it.
@@ -18,6 +17,7 @@ This guide provides step-by-step instructions for installing Splunk on a Windows
    - Choose an installation directory (default is `C:\Program Files\Splunk`).
    - Set up an administrator username and password.
 3. Click **Install** and wait for the installation to complete.
+![image](https://github.com/user-attachments/assets/52f50526-a59d-4574-a2b6-53804fea2767)
 
 ## Step 3: Start Splunk
 1. Open the Command Prompt as Administrator.
