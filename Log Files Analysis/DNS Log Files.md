@@ -1,4 +1,4 @@
-# Steps to Analyze DNS Log Files in Splunk
+# Steps to Analyze DNS Log Files
 
 ## Step 1: Search for DNS Events
 1. Open the Splunk interface and navigate to the search bar.
